@@ -1,2 +1,2 @@
 # cv maker
-[Demo](https://latumat.github.io/Project-CV/)
+[demo](https://latumat.github.io/cv-maker/)
